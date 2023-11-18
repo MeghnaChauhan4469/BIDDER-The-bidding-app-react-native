@@ -25,3 +25,6 @@ npm start
 6-INSTALL "EXPO GO" ON YOUR MOBILE DEVICE  
 7-SCAN THE QR CODE  
 AND YOU MUST BE ABLE TO SEE THE APP WORKING
+## Screenshots
+
+![Local Image](images/local-image.jpg)

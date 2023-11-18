@@ -26,5 +26,10 @@ npm start
 7-SCAN THE QR CODE  
 AND YOU MUST BE ABLE TO SEE THE APP WORKING
 ## Screenshots
+<div style="display: flex; justify-content: space-between;">
+    <img src="bidderimages/bidder2.jpg" alt="Image 1" style="width: 30%;">
+    <img src="bidderimages/bidder1.jpg" alt="Image 2" style="width: 30%;">
+    <img src="bidderimages/bidder3.jpg" alt="Image 3" style="width: 30%;">
+</div>
 
-![Local Image](images/local-image.jpg)
+
